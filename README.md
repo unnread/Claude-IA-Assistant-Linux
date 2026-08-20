@@ -1,65 +1,141 @@
-# Claude-IA-Assistant-Linux
+# 🤖 Claude-IA-Assistant-Linux
 
-## 🇫🇷 Français
+<p align="center">
+  <strong>🐧 Claude desktop application for Linux</strong>
+</p>
 
-Vous êtes sur **Linux** et vous voulez utiliser **Claude** depuis une application desktop ?
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Supported-orange?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?logo=electron&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black">
+</p>
 
-**Claude-IA-Assistant-Linux** est fait pour vous !
+---
 
-### 📥 Installation
+# 🇫🇷 Français
+
+## 🤖 Présentation
+
+**Claude-IA-Assistant-Linux** est une application desktop conçue pour **Linux** permettant d'utiliser **Claude** depuis une application dédiée.
+
+Le projet utilise principalement :
+
+- ⚡ Electron
+- 🟨 JavaScript
+- 🌐 HTML
+- 🎨 CSS
+
+L'objectif est de proposer une manière simple et pratique d'utiliser Claude sur Linux.
+
+## 📥 Installation
 
 Clonez le dépôt :
 
 ```bash
 git clone https://github.com/unnread/Claude-IA-Assistant-Linux.git
+````
+
+Entrez dans le dossier :
+
+```bash
 cd Claude-IA-Assistant-Linux
+```
+
+Rendez le script d'installation exécutable :
+
+```bash
 chmod 755 install.sh
+```
+
+Lancez ensuite l'installation :
+
+```bash
 ./install.sh
 ```
 
 Le script `install.sh` installe automatiquement les éléments nécessaires au fonctionnement du projet.
 
-### 🐧 Compatibilité
+## 🚀 Lancer le projet
+
+Après l'installation :
+
+```bash
+npm start
+```
+
+## 🐧 Compatibilité
 
 Ce projet est conçu pour **Linux**.
 
+Il peut fonctionner sur différentes distributions Linux, notamment Ubuntu, Debian, Linux Mint, Fedora, Arch Linux et d'autres distributions compatibles.
+
 ---
 
- English
+# 🇬🇧 English
 
-Are you using **Linux** and want to use **Claude** from a desktop application?
+## 🤖 About
 
-**Claude-IA-Assistant-Linux** is made for you!
+**Claude-IA-Assistant-Linux** is a desktop application designed for **Linux** that allows you to use **Claude** from a dedicated application.
 
-### 📥 Installation
+The project mainly uses:
+
+* ⚡ Electron
+* 🟨 JavaScript
+* 🌐 HTML
+* 🎨 CSS
+
+The goal is to provide a simple and convenient way to use Claude on Linux.
+
+## 📥 Installation
 
 Clone the repository:
 
 ```bash
 git clone https://github.com/unnread/Claude-IA-Assistant-Linux.git
+```
+
+Enter the project directory:
+
+```bash
 cd Claude-IA-Assistant-Linux
+```
+
+Make the installation script executable:
+
+```bash
 chmod 755 install.sh
+```
+
+Then run the installer:
+
+```bash
 ./install.sh
 ```
 
 The `install.sh` script automatically installs everything required for the project to work.
 
-### 🐧 Compatibility
+## 🚀 Run the project
+
+After installation:
+
+```bash
+npm start
+```
+
+## 🐧 Compatibility
 
 This project is designed for **Linux**.
 
----
-
-## ⭐ Contributing
-
-Contributions are welcome!
-
-You can help by fixing bugs, improving the project, or adding new features.
-
-## 📜 License
-
-See the `LICENSE` file for the project's license and usage conditions.
+It may work on different Linux distributions, including Ubuntu, Debian, Linux Mint, Fedora, Arch Linux and other compatible distributions.
 
 ---
 
-**Thanks for using Claude-IA-Assistant-Linux! ❤️**
+## ❤️ Thanks
+
+Thanks for using **Claude-IA-Assistant-Linux**!
+
+If you like the project, consider giving it a ⭐ on GitHub.
+
+<p align="center">
+  🐧 Made with ❤️ for Linux
+</p>
