@@ -1,6 +1,3 @@
-Oui, donc il faut corriger le README : **JavaScript + Bash uniquement**, pas HTML/CSS.
-
-````markdown
 # 🤖 Claude-IA-Assistant-Linux
 
 <p align="center">
@@ -138,4 +135,3 @@ If you like the project, consider giving it a ⭐ on GitHub.
 <p align="center">
   🐧 Made with ❤️ for Linux
 </p>
-```
